@@ -1,0 +1,124 @@
+@import '../../scss/variables/colors.module.scss';
+
+.promotionCard {
+  width: 100%;
+  overflow: hidden;
+  border-left: 1px solid #dcdcdc;
+  border-right: 1px solid #dcdcdc;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  height: 100%;
+  height: 750px;
+
+  .img_block {
+    height: 40%;
+    width: 100%;
+    margin-bottom: 70px;
+    position: relative;
+
+    .img_block_item {
+      margin-top: 20px;
+
+      img {
+        width: 85%;
+        height: 100%;
+        object-fit: contain;
+        display: block;
+        margin: 0 auto;
+        max-height: 330px;
+      }
+    }
+
+    .img_block_hover {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 10;
+
+      .img_block_hover_it {
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+
+  .salesman_img {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  .salesman {
+    margin-bottom: 15px;
+  }
+
+  .subtitle {
+    span {
+      font-size: 16px;
+    }
+  }
+
+  .old_price_item {
+    display: flex;
+    justify-content: space-between;
+    color: #71767e;
+    gap: 6px;
+
+    span {
+      display: flex;
+      gap: 4px;
+    }
+
+    span:first-child {
+      width: 30%;
+      display: flex;
+      justify-content: end;
+    }
+
+    span:last-child {
+      width: 70%;
+    }
+  }
+
+  .old_price {
+    color: #71767e;
+    text-decoration: line-through;
+    font-size: 16px;
+  }
+
+  .cart_button {
+    width: 80%;
+    height: 50px;
+    color: white;
+    background: $primary100;
+    font-weight: 700;
+  }
+
+  .cart_favorites {
+    width: 50px;
+    height: 50px;
+  }
+
+  .discount_block {
+    position: absolute;
+    bottom: 5%;
+    left: 15%;
+    z-index: 9;
+    background: #ff0032;
+    width: 60px;
+    height: 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    color: white;
+  }
+}

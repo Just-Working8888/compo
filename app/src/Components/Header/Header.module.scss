@@ -1,0 +1,79 @@
+@import '../../scss/variables/colors.module.scss';
+
+.header {
+
+
+    &_nav {
+        border-bottom: 1px solid $borderColor;
+        padding: 1rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 24px;
+
+        &_not {
+            display: flex;
+            align-items: center;
+            font-size: 20px;
+            gap: 12px;
+
+            span:nth-child(1) {
+                border-right: 1px solid $borderColor;
+                padding-right: 12px;
+            }
+
+            span:hover {
+                color: $primary100;
+            }
+        }
+
+        &_user {
+            display: flex;
+            text-wrap: nowrap;
+            align-items: center;
+            gap: 12px;
+        }
+    }
+
+    &_bot {
+        padding: 1rem ;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+
+        &_ul {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+
+            a {
+                color: black;
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 16px;
+                text-align: center;
+
+            }
+
+        }
+
+        &_nav {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+
+
+
+            h1 {
+                margin: 0;
+                color: $primarytext;
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 16px;
+                text-align: center;
+
+            }
+        }
+    }
+}

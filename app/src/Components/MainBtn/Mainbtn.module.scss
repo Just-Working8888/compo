@@ -1,0 +1,28 @@
+@import '../../scss/variables/colors.module.scss';
+
+.button {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: center;
+    color: #1551E5;
+    background-color: $gost;
+    border: none;
+    border-radius: 8px;
+    text-wrap: nowrap;
+    height: 48px;
+    padding: 12px;
+    transition: 0.3s;
+
+    span {
+        font-size: 20px;
+    }
+
+    &:hover {
+        background-color: #cbdbff;
+    }
+
+}

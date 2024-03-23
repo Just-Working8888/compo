@@ -1,0 +1,25 @@
+.promotion {
+  .swiper-wrapper {
+    position: static !important;
+  }
+
+  .swiper {
+    position: static;
+  }
+
+  .slick-dots {
+    gap: 5px;
+    top: -15px;
+    li {
+      width: 55px !important;
+      background: #dcdcdc !important;
+      opacity: 1 !important;
+    }
+    .slick-active {
+      button {
+        background: #001424 !important;
+      }
+    }
+  }
+
+}

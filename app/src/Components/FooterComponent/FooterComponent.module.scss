@@ -1,0 +1,134 @@
+@import '../../scss/variables/colors.module.scss';
+
+.footer {
+    padding: 0 1rem;
+    &_top {
+        border-top: 1px solid $borderColor;
+        padding: 48px 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        &_contact {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+
+            h1 {
+                font-size: 16px;
+                font-weight: 700;
+                line-height: 20px;
+                text-align: left;
+            }
+
+            h2 {
+                font-size: 12px;
+                font-weight: 400;
+                line-height: 16px;
+                text-align: left;
+                color: #77829E;
+
+            }
+        }
+
+        &_nav {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+
+            h1 {
+                margin: 0;
+                font-size: 16px;
+                font-weight: 700;
+                line-height: 20px;
+                text-align: center;
+
+            }
+        }
+    }
+
+    &_main {
+        border-top: 1px solid $borderColor;
+        padding: 48px 0;
+        display: flex;
+        justify-content: space-between;
+
+        h1 {
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 24px;
+            text-align: left;
+        }
+
+        div {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+
+            h2 {
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 16px;
+                text-align: left;
+            }
+
+            a {
+                color: #050D23;
+            }
+        }
+    }
+
+    &_bot {
+        border-top: 1px solid $borderColor;
+        padding: 48px 0;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 1rem;
+
+        ul {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+
+            li {
+                display: flex;
+                gap: 8px;
+                align-items: center;
+                font-size: 12px;
+                font-weight: 500;
+                line-height: 16px;
+                text-align: left;
+
+                &:hover {
+                    color: $primary100;
+                }
+            }
+        }
+
+        p {
+            text-align: center;
+            color: #828EAD;
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 16px;
+            text-align: center;
+
+        }
+
+        div {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+
+            h1 {
+                margin: 0;
+                font-size: 14px;
+                font-weight: 700;
+                line-height: 16px;
+                text-align: left;
+
+            }
+        }
+    }
+}

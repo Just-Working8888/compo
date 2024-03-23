@@ -1,0 +1,45 @@
+.top {
+    margin-top: 30px;
+
+
+    &_descr_block {
+        &_col {
+            width: 100%;
+        }
+
+        &_images_carousel {
+            margin-top: 20px;
+
+            &_item {
+                width: 80% !important;
+                height: 84px;
+                border-radius: 5.535px;
+                border: 1px solid #DCDCDC;
+                background: #FFF;
+                padding: 5px;
+
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: contain;
+                }
+            }
+        }
+
+        &_image {
+            padding: 48px 55px;
+            border-radius: 8px;
+            border: 1px solid #DCDCDC;
+            background: #FFF;
+            position: relative;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+}
+
+.container {
+    width: 30%;
+}

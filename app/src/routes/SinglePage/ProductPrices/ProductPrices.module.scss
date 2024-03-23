@@ -1,0 +1,80 @@
+.ProductPrices {
+    width: 100%;
+
+    h4 {
+        color: #FF3D71;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 16px;
+        text-align: left;
+
+    }
+
+    h3 {
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: 0.01em;
+        text-align: left;
+
+    }
+
+    &_q {
+        padding-bottom: 32px;
+        border-bottom: 1px solid #ccc;
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+
+        b {
+            border-radius: 8px;
+            background-color: #F2F5F9;
+            color: #828EAD;
+            padding: 8px;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 16px;
+            text-align: left;
+
+        }
+    }
+
+    &_main {
+        display: flex;
+        justify-content: space-between;
+        padding: 32px 0;
+
+        h2 {
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 16px;
+            text-align: left;
+
+        }
+
+        h3 {
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 16px;
+            text-align: left;
+            color: #828EAD;
+            ;
+        }
+    }
+
+    &_btns {
+        gap: 12px;
+        display: flex;
+        align-items: center;
+
+    }
+}
+
+.counter {
+    height: 48px;
+    button {
+        background-color: #ffffff;
+        border: none;
+        cursor: pointer;
+    }
+}

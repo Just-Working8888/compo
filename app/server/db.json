@@ -1,0 +1,625 @@
+{
+  "items": [
+    {
+      "id": "408",
+      "shop": 8,
+      "category": [
+        273
+      ],
+      "title": "Bob's Red Mill",
+      "description": "Использовать до: 12.2025\r\n    В продаже начиная с: 05.2019\r\n    Вес в упаковке:  0.48 кг\r\n    Код товара: BRM-03391\r\n    UPC Код: 039978033918\r\n    Количество в упаковке: 453.592 г\r\n    Размеры: 15.5 x 11 x 7.1 см, 0.48 кг",
+      "image": "https://bee.webtm.ru/media/product_images/%D0%91%D0%B5%D0%B7_%D0%B8%D0%BC%D0%B8_Yt3qc3H.jpg",
+      "product_attributes": [],
+      "product_configurator": [],
+      "product_images": [
+        {
+          "id": 234,
+          "product": 408,
+          "image": "https://bee.webtm.ru/media/product_images/%D0%91%D0%B5%D0%B7_%D0%B8%D0%BC%D0%B8_7tVdoPj.jpg"
+        }
+      ],
+      "price": 680,
+      "old_price": 720,
+      "currency": "KGS",
+      "shop_name": "baget",
+      "shop_logo": "https://bee.webtm.ru/media/shop_images/th.jpg",
+      "review_count": 0,
+      "product_code": "1007672944",
+      "average_rating": null,
+      "created": "2024-02-23T00:33:25.017991+06:00",
+      "weight": null,
+      "length": null,
+      "width": null,
+      "quantity": 1
+    },
+    {
+      "id": "337",
+      "shop": 2,
+      "category": [
+        168
+      ],
+      "title": "Робот-пылесос Xiaomi X10 B102GL White",
+      "description": "Полностью автоматическая очистка и удаление пыли\r\nАвтоматический отсек для мусора 1 мешок для сбора пыли, рассчитанный на более чем 60 сборов пыли. Двухканальная конструкция основания для сбора пыли с мощным всасыванием 17000 Па мгновенно очищает мусорный бак. Встроенный пылесборник может собирать и опорожнять пыль более 60 раз, и он автоматически закрывается, когда вы берете его в руки, так что вы не будете контактировать с пылью.",
+      "image": "https://bee.webtm.ru/media/product_images/img_0_24_1108_0_6.webp",
+      "product_attributes": [
+        {
+          "key": "Тип уборки",
+          "value": "Сухая влажная"
+        },
+        {
+          "key": "Мощность всасывания",
+          "value": "4000 ПА"
+        },
+        {
+          "key": "Уровень шума",
+          "value": "60 дБ"
+        },
+        {
+          "key": "Турборежим",
+          "value": "Да"
+        },
+        {
+          "key": "Объем пылесборника",
+          "value": "0,4 л"
+        },
+        {
+          "key": "Объем резервуара для воды",
+          "value": "200 мл"
+        }
+      ],
+      "product_configurator": [],
+      "product_images": [
+        {
+          "id": 79,
+          "product": 337,
+          "image": "https://bee.webtm.ru/media/product_images/img_0_24_1108_1_6.webp"
+        },
+        {
+          "id": 80,
+          "product": 337,
+          "image": "https://bee.webtm.ru/media/product_images/img_0_24_1108_4_6.webp"
+        },
+        {
+          "id": 81,
+          "product": 337,
+          "image": "https://bee.webtm.ru/media/product_images/img_0_24_1108_5_6.webp"
+        }
+      ],
+      "price": 41190,
+      "old_price": 43249,
+      "currency": "KGS",
+      "shop_name": "Kuma",
+      "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+      "review_count": 5,
+      "product_code": "2937991316",
+      "average_rating": 4.4,
+      "created": "2024-02-14T19:08:46.541835+06:00",
+      "weight": null,
+      "length": null,
+      "width": null,
+      "quantity": 1
+    },
+    {
+      "id": "282",
+      "shop": 2,
+      "category": [
+        33,
+        34
+      ],
+      "title": "ZTE Nubia NEO 5G 8\\256GB Black",
+      "description": "Полное погружение в виртуальную реальность\r\nСмартфон ZTE Nubia NEO 5G предлагает беспрецедентные возможности для иммерсивной игры. Мощная мобильная платформа на базе 6 нм процессора Unisoc T820 с частотой до 2.7 ГГц обеспечивает суперплавную и быструю работу всех приложений. Поддержка 5G гарантирует стабильную связь и супербыстрый обмен данными. 6.6-дюймовый дисплей с частотой обновления 120 Гц просто создан для динамичной игры. Батарея 4500 мАч и зарядка мощностью 22.5 Вт позволят забыть о дефиците заряда на целый день.",
+      "image": "https://bee.webtm.ru/media/product_images/zte_1.webp",
+      "product_attributes": [
+        {
+          "key": "Основная камера",
+          "value": "50 Mpx + 2 Mpx"
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "8 Mpx"
+        },
+        {
+          "key": "Объем оперативной памяти",
+          "value": "8 GB"
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "256 GB"
+        },
+        {
+          "key": "Процессор",
+          "value": "Unisoc T820"
+        }
+      ],
+      "product_configurator": [],
+      "product_images": [
+        {
+          "id": 9,
+          "product": 282,
+          "image": "https://bee.webtm.ru/media/product_images/zte_2.webp"
+        },
+        {
+          "id": 10,
+          "product": 282,
+          "image": "https://bee.webtm.ru/media/product_images/zte_3.webp"
+        },
+        {
+          "id": 11,
+          "product": 282,
+          "image": "https://bee.webtm.ru/media/product_images/zte_4.webp"
+        },
+        {
+          "id": 12,
+          "product": 282,
+          "image": "https://bee.webtm.ru/media/product_images/zte_5.webp"
+        }
+      ],
+      "price": 21590,
+      "old_price": 22669,
+      "currency": "KGS",
+      "shop_name": "Kuma",
+      "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+      "review_count": 1,
+      "product_code": "1639361860",
+      "average_rating": 5,
+      "created": "2024-01-24T16:17:56.245097+06:00",
+      "weight": null,
+      "length": null,
+      "width": null,
+      "quantity": 1
+    },
+    {
+      "id": "284",
+      "shop": 2,
+      "category": [
+        53,
+        33,
+        83
+      ],
+      "title": "Apple iPhone 15 6/128GB Blue",
+      "description": "iPhone 15 с Dynamic Island, основной камерой 48 Мп и USB-C — в алюминиевом корпусе и с прочной задней панелью из насыщенного цветом стекла.\r\n\r\n\r\nОсновные характеристики\r\nDYNAMIC ISLAND НА iPhone 15.\r\nБлагодаря Dynamic Island оповещения и Эфир активности удобно отображаются в верхней части экрана, поэтому вы ничего не пропустите, пока будете заниматься другими делами. Вы можете смотреть, кто звонит, проверять информацию о рейсе и делать многое другое.\r\nОСНОВНАЯ КАМЕРА 48 МП И ЗУМ 2X.\r\nОсновная камера 48 Мп позволяет делать снимки с невероятно высоким разрешением. Создавать качественные фотографии с потрясающей детализацией ещё никогда не было так просто. Оптический зум 2X — это отличный инструмент для съёмки крупным планом.\r\nМОЩНЫЙ ЧИП A16 BIONIC.\r\nСупербыстрый чип обеспечивает работу передовых функций iPhone: обработка фотографий, плавное отображение Dynamic Island и режим «Изоляция голоса» во время звонков. А ещё A16 Bionic очень энергоэффективен, поэтому вашим устройством можно пользоваться целый день без подзарядки.3\r\nВАЖНЕЙШИЕ ФУНКЦИИ БЕЗОПАСНОСТИ.\r\nФункция «Распознавание аварии» позволяет iPhone определить серьёзную автомобильную аварию и вызвать помощь, когда вы не можете.4\r\nИННОВАЦИОННЫЙ ДИЗАЙН.\r\niPhone 15 Plus изготовлен из алюминия и оснащён прочной задней панелью из насыщенного цветом стекла. Он устойчив к воздействию брызг, воды и пыли.1 А дисплей Super Retina XDR 6,7 дюйма2 обеспечивает вдвое большую яркость по сравнению с iPhone 14 и надёжно защищён Ceramic Shield.\r\nПОРТРЕТЫ НА НОВОМ УРОВНЕ.\r\nСоздавайте более детализированные и насыщенные фото. Просто коснитесь объекта, чтобы перевести на него фокус, — даже когда кадр уже отснят.\r\nПОДКЛЮЧЕНИЕ ЧЕРЕЗ USB-C.\r\nБлагодаря порту USB-C вы можете заряжать Mac или iPad с помощью того же кабеля, что и iPhone 15. Более того, от iPhone 15 можно подзаряжать Apple Watch или AirPods.\r\nСОЗДАН ДЛЯ ПЕРЕМЕН К ЛУЧШЕМУ.\r\nВ iPhone предусмотрены средства защиты конфиденциальности, поэтому вашими данными управляете только вы. Он изготовлен из большего количества переработанных материалов, что минимизирует влияние на окружающую среду. А встроенные функции делают iPhone ещё более удобным для каждого.",
+      "image": "https://bee.webtm.ru/media/product_images/apple_15_1.webp",
+      "product_attributes": [
+        {
+          "key": "Основная камера",
+          "value": "48 Mpx + 12 Mpx"
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Mpx"
+        },
+        {
+          "key": "Объем оперативной памяти",
+          "value": "6 GB"
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128 GB"
+        },
+        {
+          "key": "Процессор",
+          "value": "A16 Bionic"
+        }
+      ],
+      "product_configurator": [],
+      "product_images": [
+        {
+          "id": 17,
+          "product": 284,
+          "image": "https://bee.webtm.ru/media/product_images/apple_15_2.webp"
+        },
+        {
+          "id": 18,
+          "product": 284,
+          "image": "https://bee.webtm.ru/media/product_images/apple_15_3.webp"
+        },
+        {
+          "id": 19,
+          "product": 284,
+          "image": "https://bee.webtm.ru/media/product_images/apple_15_4.webp"
+        }
+      ],
+      "price": 92190,
+      "old_price": 96799,
+      "currency": "KGS",
+      "shop_name": "Kuma",
+      "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+      "review_count": 1,
+      "product_code": "2994178828",
+      "average_rating": 5,
+      "created": "2024-01-24T16:25:43.661698+06:00",
+      "weight": null,
+      "length": null,
+      "width": null,
+      "quantity": 1
+    },
+    {
+      "id": "340",
+      "shop": 2,
+      "category": [
+        168
+      ],
+      "title": "Karcher SC 2 EasyFix",
+      "description": "Пароочиститель Karcher SC 2 EasyFix - современная модель начального уровня с новой системой фиксации аксессуаров EasyFix, позволяющей максимально быстро подготовить аппарат к работе, избежать контакта с грязью. Бесконтактная смена салфетки, благодаря системе застежек на липучке и специальному язычку на самой салфетке.",
+      "image": "https://bee.webtm.ru/media/product_images/012630_middle.jpg",
+      "product_attributes": [
+        {
+          "key": "Макс. электрическая мощность",
+          "value": "1500 Вт"
+        },
+        {
+          "key": "Параметры электросети",
+          "value": "~1/230/50 ф/В/Гц"
+        },
+        {
+          "key": "Время нагрева",
+          "value": "6,5 мин"
+        },
+        {
+          "key": "Макс. давление пара",
+          "value": "3,2 бар"
+        },
+        {
+          "key": "Объём заливаемой воды",
+          "value": "1 л"
+        },
+        {
+          "key": "Регулятор расхода пара",
+          "value": "на рукоятке"
+        },
+        {
+          "key": "Длина кабеля",
+          "value": "4 м"
+        },
+        {
+          "key": "Масса без принадлежностей",
+          "value": "3 кг"
+        },
+        {
+          "key": "Размеры, ДхШхВ",
+          "value": "380х254х260 мм"
+        },
+        {
+          "key": "Вес в упаковке",
+          "value": "4,7 кг"
+        },
+        {
+          "key": "Страна происхождения",
+          "value": "Германия"
+        },
+        {
+          "key": "Предыдущие модели, версии",
+          "value": "SC 1020 (1.512-211.0); SC 1.020 (1.512-227.0); SC 2 (1.512-000.0); SC 2 EasyFix (1.512-050.0)"
+        }
+      ],
+      "product_configurator": [],
+      "product_images": [
+        {
+          "id": 88,
+          "product": 340,
+          "image": "https://bee.webtm.ru/media/product_images/012630_middle-1.jpg"
+        },
+        {
+          "id": 89,
+          "product": 340,
+          "image": "https://bee.webtm.ru/media/product_images/012630_middle-2.jpg"
+        },
+        {
+          "id": 90,
+          "product": 340,
+          "image": "https://bee.webtm.ru/media/product_images/012630_middle-3.jpg"
+        }
+      ],
+      "price": 11590,
+      "old_price": 12169,
+      "currency": "KGS",
+      "shop_name": "Kuma",
+      "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+      "review_count": 0,
+      "product_code": "3267336599",
+      "average_rating": null,
+      "created": "2024-02-14T20:43:08.534930+06:00",
+      "weight": null,
+      "length": null,
+      "width": null,
+      "quantity": 1
+    },
+    {
+      "id": "342",
+      "shop": 2,
+      "category": [
+        192
+      ],
+      "title": "Корзина для белья с крышкой Eco&Clean \"Артлайн\" 60л",
+      "description": "Современная, легкая и прочная\r\nПредназначена для хранения белья перед стиркой. Размер корзины позволяет разместить ее в ограниченном пространстве ванной комнаты. Корзина имеет специальные отверстия на стенках, что создает идеальные условия для проветривания. Изделие оснащено крышкой.",
+      "image": "https://bee.webtm.ru/media/product_images/img_0_439_169_0.webp",
+      "product_attributes": [
+        {
+          "key": "Тип",
+          "value": "Корзина для белья"
+        },
+        {
+          "key": "Страна производителя",
+          "value": "Россия"
+        },
+        {
+          "key": "Цвет",
+          "value": "Бежевый"
+        }
+      ],
+      "product_configurator": [],
+      "product_images": [
+        {
+          "id": 93,
+          "product": 342,
+          "image": "https://bee.webtm.ru/media/product_images/img_0_439_169_0_1.webp"
+        },
+        {
+          "id": 94,
+          "product": 342,
+          "image": "https://bee.webtm.ru/media/product_images/img_0_439_169_1_1.webp"
+        }
+      ],
+      "price": 2590,
+      "old_price": 2719,
+      "currency": "KGS",
+      "shop_name": "Kuma",
+      "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+      "review_count": 0,
+      "product_code": "2945637554",
+      "average_rating": null,
+      "created": "2024-02-15T11:04:43.259442+06:00",
+      "weight": null,
+      "length": null,
+      "width": null,
+      "quantity": 1
+    },
+    {
+      "id": "359",
+      "shop": 8,
+      "category": [
+        208
+      ],
+      "title": "ВЫПРЯМИТЕЛЬ MAXWELL MW-2218",
+      "description": "Еженедельное посещение салонов красоты для вас непозволительная роскошь? Выход есть! С нашим новым выпрямителем MAXWELL MW-2218 BK вы сможете придать волосам привлекательный вид, прямо не выходя из дома. Технология позволяет защитить ваши волосы от излишнего перегрева и гарантирует безупречный результат. Вращающийся шнур питания гарантирует отсутствие неудобств, а благодаря петле на корпусе вы сможете разместить прибор в любом удобном месте.",
+      "image": "https://bee.webtm.ru/media/product_images/OIP_5.jpg",
+      "product_attributes": [],
+      "product_configurator": [],
+      "product_images": [
+        {
+          "id": 154,
+          "product": 359,
+          "image": "https://bee.webtm.ru/media/product_images/OIP_5_A5yDklr.jpg"
+        }
+      ],
+      "price": 2199,
+      "old_price": 2308,
+      "currency": "KGS",
+      "shop_name": "baget",
+      "shop_logo": "https://bee.webtm.ru/media/shop_images/th.jpg",
+      "review_count": 0,
+      "product_code": "1014434724",
+      "average_rating": null,
+      "created": "2024-02-15T19:57:51.496196+06:00",
+      "weight": null,
+      "length": null,
+      "width": null,
+      "quantity": 1
+    },
+    {
+      "id": "281",
+      "shop": 4,
+      "category": [
+        36
+      ],
+      "title": "Xiaomi Redmi 12 8/256GB Midnight Black",
+      "description": "Захватывающий экран для впечатляющего визуального опыта.\r\nСмартфон оснащен 6.79-дюймовым IPS LCD-экраном с разрешением 1080 x 2400 пикселей и соотношением сторон 20:9. С этим экраном пользователи могут наслаждаться яркими и четкими цветами, а также широким углом обзора. Благодаря частоте обновления 90 Гц, экран обеспечивает плавную прокрутку и реактивность при использовании смартфона.",
+      "image": "https://bee.webtm.ru/media/product_images/redmi_12_5g-.png",
+      "product_attributes": [
+        {
+          "key": "Основная камера",
+          "value": "50 Mpx + 8 Mpx + 2 Mpx"
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "8 Mpx"
+        },
+        {
+          "key": "Объем оперативной памяти",
+          "value": "8 GB"
+        },
+        {
+          "key": "Процессор",
+          "value": "MediaTek Helio G88"
+        }
+      ],
+      "product_configurator": [
+        {
+          "id": 4,
+          "configurator_key": "color",
+          "key": "Цвет товара:",
+          "values": [
+            {
+              "price": "0",
+              "title": "rgb(0, 0, 0)"
+            },
+            {
+              "price": "9000",
+              "title": "rgb(255, 0, 0)"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "configurator_key": "memory",
+          "key": "Конфигурация памяти:",
+          "values": [
+            {
+              "price": "0",
+              "title": "128GB"
+            },
+            {
+              "price": "9000",
+              "title": "256 GB"
+            },
+            {
+              "price": "12000",
+              "title": "512 GB"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "configurator_key": "sim",
+          "key": "Количество SIM-карт:",
+          "values": [
+            {
+              "price": "0",
+              "title": "Dual + eSIM"
+            },
+            {
+              "price": "1000",
+              "title": "Dual Sim"
+            }
+          ]
+        }
+      ],
+      "product_images": [
+        {
+          "id": 5,
+          "product": 281,
+          "image": "https://bee.webtm.ru/media/product_images/redmi_12_2.webp"
+        },
+        {
+          "id": 6,
+          "product": 281,
+          "image": "https://bee.webtm.ru/media/product_images/redmi_12_3.webp"
+        },
+        {
+          "id": 7,
+          "product": 281,
+          "image": "https://bee.webtm.ru/media/product_images/redmi_12_4.webp"
+        },
+        {
+          "id": 8,
+          "product": 281,
+          "image": "https://bee.webtm.ru/media/product_images/redmi_12_5.webp"
+        }
+      ],
+      "price": 17690,
+      "old_price": 30000,
+      "currency": "KGS",
+      "shop_name": "ArzanAll",
+      "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-38.jpg",
+      "review_count": 11,
+      "product_code": "7655995241",
+      "average_rating": 3.73,
+      "created": "2024-01-24T16:14:32.103028+06:00",
+      "weight": null,
+      "length": null,
+      "width": null,
+      "quantity": 1
+    },
+    {
+      "id": "420",
+      "shop": 8,
+      "category": [
+        173
+      ],
+      "title": "Игрушечные машины линейки World car от Mimi world",
+      "description": "World Car - это серия игрушечных машин от Mimi world. Некоторые игрушечные машинки можно заводить с помощью ключа зажигания. Дети могут играть в пожарных, полицейских либо устраивать гонки модных спортивных машин.",
+      "image": "https://bee.webtm.ru/media/product_images/92a4f5a8-b337-4bf9-bb88-8c0ef89b5d9c.jpg",
+      "product_attributes": [],
+      "product_configurator": [],
+      "product_images": [
+        {
+          "id": 246,
+          "product": 420,
+          "image": "https://bee.webtm.ru/media/product_images/92a4f5a8-b337-4bf9-bb88-8c0ef89b5d9c_HKoqamw.jpg"
+        }
+      ],
+      "price": 3400,
+      "old_price": 4700,
+      "currency": "KGS",
+      "shop_name": "baget",
+      "shop_logo": "https://bee.webtm.ru/media/shop_images/th.jpg",
+      "review_count": 0,
+      "product_code": "6214186474",
+      "average_rating": null,
+      "created": "2024-02-23T12:04:51.879468+06:00",
+      "weight": null,
+      "length": null,
+      "width": null,
+      "quantity": 1
+    },
+    {
+      "id": "280",
+      "shop": 2,
+      "category": [
+        34
+      ],
+      "title": "Apple iPhone 13 4/128GB Midnight",
+      "description": "Дисплей Super Retina XDR 6,1 дюйма\r\nРежим «Киноэффект» автоматически переводит фокус между объектами при съёмке видео и создаёт красивый эффект размытия\r\nПередовая система двух камер 12 Мп (широкоугольная и сверхширокоугольная); Фотографические стили, Smart HDR 4, Ночной режим, съёмка HDR-видео 4K в стандарте Dolby Vision\r\nФронтальная камера TrueDepth 12 Мп: Ночной режим, съёмка HDR‑видео 4K в стандарте Dolby Vision\r\nA15 Bionic — чип, с которым всё супербыстро\r\nДо 19 часов воспроизведения видео\r\nПанель Ceramic Shield для повышенной прочности\r\nНадёжная защита от воды (IP68)\r\niOS 15 с новыми функциями, расширяющими возможности iPhone\r\nПоддержка аксессуаров MagSafe, которые легко крепятся и обеспечивают более быструю беспроводную зарядку",
+      "image": "https://bee.webtm.ru/media/product_images/apple_13_1.webp",
+      "product_attributes": [
+        {
+          "key": "Основная камера",
+          "value": "12 Mpx + 12 Mpx"
+        },
+        {
+          "key": "Фронтальная камера",
+          "value": "12 Mpx"
+        },
+        {
+          "key": "Объем оперативной памяти",
+          "value": "4 GB"
+        },
+        {
+          "key": "Объем встроенной памяти",
+          "value": "128 GB"
+        },
+        {
+          "key": "Процессор",
+          "value": "A15 Bionic"
+        }
+      ],
+      "product_configurator": [],
+      "product_images": [
+        {
+          "id": 1,
+          "product": 280,
+          "image": "https://bee.webtm.ru/media/product_images/apple_13_2.webp"
+        },
+        {
+          "id": 2,
+          "product": 280,
+          "image": "https://bee.webtm.ru/media/product_images/apple_13_3.webp"
+        },
+        {
+          "id": 3,
+          "product": 280,
+          "image": "https://bee.webtm.ru/media/product_images/apple_13_4.webp"
+        },
+        {
+          "id": 4,
+          "product": 280,
+          "image": "https://bee.webtm.ru/media/product_images/apple_13_5.webp"
+        }
+      ],
+      "price": 68690,
+      "old_price": 72124,
+      "currency": "KGS",
+      "shop_name": "Kuma",
+      "shop_logo": "https://bee.webtm.ru/media/shop_images/photo_2023-12-24_18-05-40_2.jpg",
+      "review_count": 0,
+      "product_code": null,
+      "average_rating": null,
+      "created": "2024-01-24T16:11:35.711645+06:00",
+      "weight": null,
+      "length": null,
+      "width": null,
+      "quantity": 1
+    }
+  ],
+  "cart": []
+}

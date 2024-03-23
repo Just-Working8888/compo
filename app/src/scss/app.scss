@@ -1,0 +1,62 @@
+@import "~antd/dist/reset.css";
+@import "./libs/normalize";
+@import "./variables/colors.module.scss";
+
+//заголовков таблицы
+thead[class*="ant-table-thead"] th {
+  background-color: $white !important;
+  border-top: .5px solid $lightdivider;
+
+  &::before {
+    display: none !important;
+  }
+}
+
+.menuButton,
+.maininput {
+
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  text-align: center;
+  padding: 0 24px;
+  border-radius: 8px;
+  height: 48px;
+  gap: 12px;
+}
+
+.maininput {
+  padding: 12px;
+}
+
+.custom-swiper {
+
+
+  .slick-slider .slick-list {
+    width: 100%;
+  }
+
+  .ant-carousel .slick-slider {
+    display: flex;
+    gap: 10px;
+    // display: block;
+  }
+
+  .slick-next,
+  .slick-prev {
+    position: static !important;
+    top: 0;
+    display: block;
+    width: fit-content;
+    height: auto;
+    margin-top: 0;
+    padding: 0;
+    color: transparent;
+    font-size: 0;
+    line-height: 0;
+    background: transparent;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+  }
+}

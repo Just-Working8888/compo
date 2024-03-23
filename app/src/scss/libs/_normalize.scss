@@ -1,0 +1,106 @@
+// @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import '../../scss/variables/colors.module.scss';
+
+
+@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham'), url(../../assets/fonts/GothamMedium.ttf) format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  outline: none;
+  font-family: "Gotham" sans-serif !important;
+  box-sizing: border-box;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
+  // color: $textcolor;
+}
+
+
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 28px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+@mixin noselect {
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Old versions of Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently supported by Chrome, Opera and Firefox */
+}
+
+h1 {
+
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 53px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+
+h2 {
+
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 39px;
+  letter-spacing: 0em;
+  margin: 0;
+
+}
+
+h3 {
+
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0px;
+  text-align: left;
+
+}
+
+@media(max-width:710px) {
+
+  h2 {
+    font-size: 24px;
+  }
+}
+
+@media(max-width:543px) {
+
+  h2 {
+    font-size: 16px;
+  }
+}
