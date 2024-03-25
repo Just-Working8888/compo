@@ -11,7 +11,7 @@ export interface signUpValues extends loginValues {
 export interface Product {
     id: number;
     shop: number;
-    category: string[]; // Массив строк, предположим, что категории являются строками
+    category: string[];
     title: string;
     description: string;
     image: string;

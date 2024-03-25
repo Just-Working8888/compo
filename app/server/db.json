@@ -621,5 +621,30 @@
       "quantity": 1
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "id": "408",
+      "salesman_img": "https://sartoreale.ru/upload/iblock/dc1/dc17cad50138ce5b963516754faba6f0.jpg",
+      "title": "Bob's Red Mill",
+      "description": "Использовать до: 12.2025\r\n    В продаже начиная с: 05.2019\r\n    Вес в упаковке: ...",
+      "price": 680,
+      "old_price": 720,
+      "average_rating": null,
+      "review_count": 0,
+      "product_images": [
+        {
+          "id": 234,
+          "product": 408,
+          "image": "https://bee.webtm.ru/media/product_images/%D0%91%D0%B5%D0%B7_%D0%B8%D0%BC%D0%B8_7tVdoPj.jpg"
+        }
+      ],
+      "product_code": 1007672944,
+      "quantity": 1,
+      "tabIndex": -1,
+      "style": {
+        "width": "100%",
+        "display": "inline-block"
+      }
+    }
+  ]
 }

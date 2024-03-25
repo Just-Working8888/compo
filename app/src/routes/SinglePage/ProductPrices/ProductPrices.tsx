@@ -8,6 +8,7 @@ import { fetchCartItems, putCartItems } from "store/reducers/cartReduser";
 import { fetchItems } from "store/reducers/producRedusers";
 import axios from "axios";
 import { useParams } from "react-router-dom";
+import { api } from "api";
 
 
 const ProductPrices: FC = () => {
@@ -16,11 +17,13 @@ const ProductPrices: FC = () => {
     const existingCartItem = cart.find(item => item.id === singleProduct?.id);
     const [quantity, setQuantity] = useState(1)
     const dispatch = useAppDispatch()
+
     useEffect(() => {
         const source = axios.CancelToken.source();
         dispatch(fetchCartItems({ cancelToken: source.token }))
         dispatch(fetchItems({ cancelToken: source.token }))
     }, [])
+
     useEffect(() => {
         const timeout = setTimeout(async () => {
             if (existingCartItem && singleProduct) {
@@ -39,9 +42,11 @@ const ProductPrices: FC = () => {
     async function addtocart() {
         const source = axios.CancelToken.source();
         const existingCartItem = cart.find(item => item.id === singleProduct?.id);
-        if (!existingCartItem) {
+        if (!existingCartItem && singleProduct) {
             try {
-                await axios.post('http://localhost:3001/cart', { ...singleProduct, quantity: 1 });
+                await api.postCartItems({ ...singleProduct, quantity: 1 })
+       
+
                 dispatch(fetchCartItems({ cancelToken: source.token }))
             } catch (error) {
                 console.error('Error adding item to cart:', error);
@@ -56,7 +61,7 @@ const ProductPrices: FC = () => {
                 <b>12 штук в уп.</b>
                 <label htmlFor="">
                     <Switch defaultChecked />
-                    _Заказ упаковкой
+                    Заказ упаковкой
                 </label>
             </div>
             <div className={classes.ProductPrices_main}>
@@ -80,7 +85,7 @@ const ProductPrices: FC = () => {
                         : <Button className={classes.counter} style={{ width: '100%' }} >
                             <Flex justify="space-between">
 
-                                <button onClick={() => quantity > 0 && setQuantity(quantity - 1)}>
+                                <button onClick={() => quantity > 0 && setQuantity((prev) => prev - 1)}>
                                     <MinusOutlined />
                                 </button>
                                 <b>
@@ -88,7 +93,7 @@ const ProductPrices: FC = () => {
                                     <span>     штуки</span>
                                 </b>
 
-                                <button onClick={() => setQuantity(quantity + 1)}>
+                                <button onClick={() => setQuantity((prev) => prev + 1)}>
                                     <PlusOutlined />
                                 </button>
                             </Flex>

@@ -28,10 +28,20 @@ const putCartItems = (
         `cart/${id}`, { ...body },
         { cancelToken: sourceToken }
     );
+
+const postCartItems = (
+    body: Product,
+    sourceToken?: CancelToken
+) =>
+    instance.post<Product>(
+        `cart`, { ...body },
+        { cancelToken: sourceToken }
+    );
 const endpoints = {
     getCartItems,
     deleteCartItems,
-    putCartItems
+    putCartItems,
+    postCartItems
 
 };
 export default endpoints;

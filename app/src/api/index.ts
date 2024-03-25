@@ -24,7 +24,7 @@ console.log(process.env.REACT_APP_SERVER_API, window.REACT_APP_SERVER_API);
 
 const { login, register } = auth
 const { getProducts, getProductsById } = product
-const { getCartItems, deleteCartItems, putCartItems } = cart
+const { getCartItems, deleteCartItems, putCartItems, postCartItems } = cart
 
 
 const api = {
@@ -34,7 +34,8 @@ const api = {
   getProductsById,
   getCartItems,
   deleteCartItems,
-  putCartItems
+  putCartItems,
+  postCartItems
 }
 
 export { instance, api };
